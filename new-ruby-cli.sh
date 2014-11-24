@@ -79,5 +79,6 @@ end" > "lib/${product_name}/commands.rb"
 ---
 " > "README.md"
     )
+    echo "${product_name} created."
   fi
 }
