@@ -28,5 +28,5 @@ Usage: app [options] ...
 
 ### Known caveats
 - Since the generation is based on the name, names with Dashes **do not work**. You'll have to refactor your module
-- This project will generate a gitignore using the [`gi`](http://gitignore.io) CLI.  If you do not have `gi` in your path, then i'm not sure what'll happen :)
+- This project will generate a gitignore using the [`gi`](http://gitignore.io) CLI.  If you do not have `gi` in your path, then [add it!](https://github.com/joeblau/gitignore.io#linux) you'll thank me. 
 
